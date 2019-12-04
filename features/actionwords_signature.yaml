@@ -1,0 +1,90 @@
+---
+- name: navigation to the URL of the WebOrders has been successful
+  uid: 4067c700-fbd5-4299-ab57-164de856a96e
+  parameters: []
+  body_hash: 6f2da842b9d975101c3e96ecb032e965
+- name: the username of "user" is inputted into the username field
+  uid: 7fda65b3-7009-43f3-a74b-746e759a00cd
+  parameters:
+  - name: __datatable
+  - name: user
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: 'the password of "password" is inputted into the password field '
+  uid: 8c0bb48c-974f-4e5e-b7d2-df09715c793d
+  parameters:
+  - name: password
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the 'Login' button is clicked
+  uid: 44f37424-176e-475c-93e9-5f1638c41793
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: a successful login will take place
+  uid: 54000029-dfac-4edd-88d8-3a9308f5a518
+  parameters: []
+  body_hash: 7581fb648ef94105ae2ec785c604ba40
+- name: I click the logout button
+  uid: 698f877b-6751-4d21-9399-b4db3483b856
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I'm returned to the login window
+  uid: 3b5dfaa9-fcc5-413f-a549-3bca3f090dcc
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: 'I have logged in '
+  uid: 151fe25f-364a-4a0f-9192-a3dd8b6726e9
+  parameters: []
+  body_hash: 7581fb648ef94105ae2ec785c604ba40
+- name: I can go to the "p1" product page
+  uid: ce5d7f4c-d99e-41d4-a415-c12fa7536c1c
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I click 'Add to Cart'
+  uid: d98e30bf-bfd3-4f5c-9704-a70625652b0c
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: my cart contains one of "p1"
+  uid: 767384e5-a669-4289-8ee1-6ef774008073
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: 'the data to be used is = database '
+  uid: 52bd7278-b0a8-40e1-98c3-7ee8db05d62a
+  parameters:
+  - name: database
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the value is from the "p1"
+  uid: c42eb406-ddd7-4768-9024-6a327af361c6
+  parameters:
+  - name: p1
+  body_hash: 8dabf2edd7257f04186fc9b0695e8a91
+- name: this is a "p1"
+  uid: 9942ee0f-fe08-4306-8c2b-c4f2892448ca
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: i can access the website
+  uid: f72a9a3b-a2a6-466b-81f2-88c472d96223
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I use "p1" good credentials
+  uid: 995e91cb-26d6-47ca-81ad-3d2e87861dfc
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I can log in successfully
+  uid: 501348bf-b8f2-458d-a5eb-ab7fc454f242
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: we have an Operation to get Order Info
+  uid: c54ec10f-a284-4532-aa5f-25a06890027c
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: we ask about an Order
+  uid: 5f8629eb-d2f1-4a1b-a501-00535d9e9c83
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the correct details are given
+  uid: 8f83ac51-2742-46fb-bdf1-533cb0b23ff4
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
